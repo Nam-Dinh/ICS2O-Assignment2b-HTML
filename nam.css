@@ -1,0 +1,22 @@
+.text {
+    color:#1C75C8;
+    font-weight: bold;
+}
+.background {
+    background-color:#DA2614;
+    color:white;
+}
+.line {
+    border-color: black;
+}
+.align {
+    text-align: center;
+    font-size: 20px;
+}
+.border {
+    border-radius: 50%;
+    padding: 50px;
+}
+.size {
+    font-size: 25px;
+}
